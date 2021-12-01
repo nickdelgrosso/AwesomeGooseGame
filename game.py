@@ -2,7 +2,11 @@
 
 from typing import Optional, Tuple
 
+afad
 
+adfads
+f
+adfadfda
 class Game:
     
     def __init__(self, player1: str, player2: str) -> None:
@@ -43,6 +47,5 @@ class Game:
     def get_winner(self) -> Optional[str]:
         """Returns None (if the game is not over) or the name of the winner"""
         return None
-    
     
     
